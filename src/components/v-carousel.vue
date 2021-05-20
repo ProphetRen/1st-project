@@ -67,8 +67,8 @@ export default {
   flex-direction: column;
   align-self: center;
   margin-top:3vw;
-  max-width: 150px;
-
+  max-width: 170px;
+  overflow: hidden;
 }
 .v-slider{
   display: flex;
