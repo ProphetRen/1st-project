@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Activate json-server for emulating api
+
+json-server --watch db.json
